@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header,footer{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 2rem 0;
+}
+
+.img{
+    text-align: center;
+}
+
+.img .dis{
+    font-weight: bold;
+}
+
+.img img{
+    width: 250px;
+    height: 250px;
+}
+h4{
+    text-transform: uppercase;
+    color: rgb(41, 41, 163);
+}
+h2{
+    color: rgb(41, 41, 163);
+}
+.discribe{
+    background: linear-gradient(#ffffffc0,#ffffffc0), url('img/mother.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    font-weight: 490;
+    padding: 2rem;
+}
+footer{
+    font-size: large;
+}
+ul {
+    margin-left: 1.4rem;
+}
